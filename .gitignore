@@ -1,0 +1,7 @@
+# Material de apoio (fotos originais, recortes e scripts de geração)
+_build/
+
+# Sistema
+Thumbs.db
+.DS_Store
+node_modules/

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nayara Magalhães">
+  <rect width="64" height="64" rx="14" fill="#EBE6DD"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#CBA65D" stroke-width="1.6"/>
+  <path d="M21 41V23l11 13 11-13v18" fill="none" stroke="#8D6D3B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
